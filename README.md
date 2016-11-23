@@ -11,3 +11,7 @@
 
 - **PerfectPixel**: Start developing websiteswith per-pixel accuracy! http://www.welldonecode.com/perfectpixel/
 - **Xdebug Helper**: Easily activate PHP debugging, profiling and tracing with this Xdebug Chrome extension https://github.com/mac-cain13/xdebug-helper-for-chrome
+
+## Applications
+
+- **Oh-my-zsh**: Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration. Your terminal never felt this good before. https://github.com/robbyrussell/oh-my-zsh
