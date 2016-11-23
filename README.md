@@ -11,4 +11,4 @@
 ## Applications
 
 - **Oh-my-zsh**: Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration. Your terminal never felt this good before. https://github.com/robbyrussell/oh-my-zsh
-- **lightshot**: The fastest way to take a customizable screenshot. https://app.prntscr.com/en/index.html
+- **Lightshot**: The fastest way to take a customizable screenshot. https://app.prntscr.com/en/index.html
