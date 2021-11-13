@@ -13,3 +13,4 @@
 - **Metamask**: A crypto wallet & gateway to blockchain apps. https://metamask.io/download
 - **Bitwarden**: Bitwarden is an integrated open source password management solution for individuals, teams, and business organizations. https://bitwarden.com/download/
 - **Tunnelblick**: Tunnelblick is a free, open source graphic user interface for OpenVPN, a Virtual Private Network, on OS X and macOS. https://tunnelblick.net/downloads.html
+- **Lens**: Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's built on open source and free. https://k8slens.dev/
