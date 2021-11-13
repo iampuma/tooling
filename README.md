@@ -1,7 +1,6 @@
 # Tools
 
-- **Brave**: free and open-source, privacy-focused, ads & trackers blocking web browser based on the Chromium web browser. https://github.com/gorhill/uBlock
- - Replaced Ghostery as of 2016/11/20, replaced uBlock Origin as of 2019/10/10.
+- **Brave**: free and open-source, privacy-focused, ads & trackers blocking web browser based on the Chromium web browser. https://github.com/gorhill/uBlock, Replaced Ghostery as of 2016/11/20, replaced uBlock Origin as of 2019/10/10.
 - **Vimium**: Provides keyboard shortcuts for navigation and control in the spirit of the Vim editor. https://vimium.github.io/
 - **PerfectPixel**: Start developing websiteswith per-pixel accuracy! http://www.welldonecode.com/perfectpixel/
 - **Xdebug Helper**: Easily activate PHP debugging, profiling and tracing with this Xdebug Chrome extension https://github.com/mac-cain13/xdebug-helper-for-chrome
